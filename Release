@@ -1,0 +1,17 @@
+Announcing the release of Perl Modules Math::Trig Version 0.01
+I have uloaded this as Math-Trig-0.01.tar.gz to the CPAN archives
+
+Math::Trig -
+	 Exports the missing inverse and hyperbolic Trigonemetric Functions
+	 (tan asin acos sinh cosh tanh sech cosech)
+
+Module Entries
+
+6) Data Types and Data Type Utilities (see also Database Interfaces)
+
+Name           DSLI  Description                                  Info
+-----------    ----  -------------------------------------------- -----
+Math::
+::Trig         bdpf  tan asin acos sinh cosh tanh sech cosech     JARW
+
+  JARW John A.R. Williams <J.A.R.Williams@aston.ac.uk>
