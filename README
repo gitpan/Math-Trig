@@ -1,6 +1,7 @@
-Perl Module Math::Trig - 0.01
+Perl Module Math::Trig - 0.02
 
-     Copyright (c) 1995 John A.R. Williams. All rights reserved.
+     Copyright (c) 1995,1996,1997 John A.R. Williams, Jason Smith.
+     All rights reserved.
      This program is free software; you can redistribute it and/or
      modify it under the same terms as Perl itself.
 
